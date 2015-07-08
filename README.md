@@ -63,7 +63,7 @@ paper.
 * R. Kawashima, S. Muramatsu, H. Nakayama, T. Hayashi, and H. Matsuo, 
 "SCLP: Segment-oriented Connection-less Protocol for High-Performance 
 Software Tunneling in Datacenter Networks", Proc. 1st IEEE Conference on 
-Network Softwarization (NetSoft 2015), London, UK, April 2015 (to appear).
+Network Softwarization (NetSoft 2015), pp.1-8, London, UK, April 2015.
 
 
 =
